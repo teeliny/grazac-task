@@ -6,3 +6,5 @@ function findRecurrence(str) {
   }
   return null;
 }
+
+module.exports = findRecurrence;
