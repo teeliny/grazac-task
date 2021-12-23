@@ -3,3 +3,5 @@ function sortSquares(arr) {
   const sortArr = squareArr.sort((a, b) => a - b);
   return sortArr;
 }
+
+module.exports = sortSquares;

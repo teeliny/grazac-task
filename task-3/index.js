@@ -11,3 +11,5 @@ function lesserCount(arr) {
   }
   return result;
 }
+
+module.exports = lesserCount;
